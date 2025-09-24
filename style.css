@@ -17,6 +17,10 @@ header div {
   text-align: center;
   height: 60px;
 }
+img {
+  width: 100%;
+  border-radius: 3%;
+}
 #featured h4,
 #featured p {
   text-align: left;
